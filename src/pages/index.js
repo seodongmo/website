@@ -496,7 +496,7 @@ function Home() {
     <>
       <LayoutProvider>
         <Head>
-          <html lang="en" />
+          <html lang="ko" />
           <title>{siteConfig.title} - {siteConfig.tagline}</title>
           <meta property="og:title" content={`${siteConfig.title} - ${siteConfig.tagline}`} />
           <link rel="shortcut icon" href="/img/favicon.ico" />
